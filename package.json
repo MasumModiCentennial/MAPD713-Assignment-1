@@ -1,0 +1,25 @@
+{
+  "name": "milestone-2",
+  "version": "1.0.0",
+  "description": "Milestone 2 - REST APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasumModiCentennial/MAPD713-Assignment-1.git"
+  },
+  "keywords": [
+    "REST",
+    "APIs",
+    "Node",
+    "Express"
+  ],
+  "author": "Masum Modi and Manoj Manikantan Murlitharan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MasumModiCentennial/MAPD713-Assignment-1/issues"
+  },
+  "homepage": "https://github.com/MasumModiCentennial/MAPD713-Assignment-1#readme"
+}
