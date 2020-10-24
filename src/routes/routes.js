@@ -7,8 +7,8 @@ const routes = (app) => {
         .get(getAllPatients)
         .post(addNewPatient)
 
-    app.route('/patients/:patientId')
-        .get(getPatientById)
+    app.route('/patients/detail')
+        .post(getPatientById)
 }
 
 export default routes;
